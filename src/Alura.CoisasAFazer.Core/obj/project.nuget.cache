@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UmYVmFTvZ1v/jMTfFKV+mEa7kxNgwQlM+2yT+zsrPt19tYjZG3O/9g4eb7rzf4d3MF4jNAH81cAvdxABb494A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jujuk\\OneDrive\\Área de Trabalho\\Bia\\Projetos\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jujuk\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\jujuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jujuk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

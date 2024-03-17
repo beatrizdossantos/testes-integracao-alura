@@ -1,0 +1,44 @@
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csprojAssemblyReference.cache
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CopyComplete
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.AssemblyReference.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CopyComplete
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.AssemblyReference.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\jujuk\OneDrive\Área de Trabalho\Bia\Projetos\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.Co.7553233C.Up2Date
